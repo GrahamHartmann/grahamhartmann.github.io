@@ -18,5 +18,10 @@ h1{
 
 .photo-item img {
 	width: 300px !important;
-	{
+}
 
+h1:hover {
+	color: purple;
+	cursor: pointer;
+}
+	
