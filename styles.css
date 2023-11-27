@@ -15,3 +15,8 @@ h1{
 	font-weight: 700;
   color: blue;
 }
+
+.photo-item img {
+	width: 300px !important;
+	{
+
