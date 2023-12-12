@@ -17,7 +17,12 @@ h1{
 }
 
 .photo-item img {
-	align: center;
+	text-align: center;
+
+}
+
+img {
+	text-align: center;
 
 }
 
