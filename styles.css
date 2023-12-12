@@ -17,8 +17,8 @@ h1{
 }
 
 .photo-item img {
-	float: center;
-        size:300px;
+	align: center;
+
 }
 
 h1:hover {
