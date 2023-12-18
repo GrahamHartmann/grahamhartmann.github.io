@@ -5,6 +5,8 @@
   flex-flow: column wrap;
   justify-content: center;
   align-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 h1{
